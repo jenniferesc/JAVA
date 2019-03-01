@@ -1,0 +1,10 @@
+GIT
+
+> git init (se añade y commitea contra mi local)
+> git remote add URL (del repo online)**
+> git push (para subir al repo remoto)**
+
+
+
+**git remote add origin https://github.com/jenniferesc/JAVA.git
+**git push -u origin master
